@@ -6,7 +6,7 @@ A modern, step-by-step **income tax calculator web app** designed for salaried i
 
 ## 🚀 Live Demo
 
-> *(Add your Vercel/Netlify link here after deployment)*
+> *(https://tax-clarity-9woxx1avg-aiprasadk-1137s-projects.vercel.app/)*
 > 🔗 https://your-app-link.vercel.app
 
 ---
